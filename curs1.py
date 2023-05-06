@@ -63,10 +63,10 @@ days_of_the_week = ('Mon', 'Tue', 'Wed')
 # declararea listei
 lst = [7, 8, 9, 2, 3, 1, 4, 10, 5, 6]
 
-# afișarea listei sortate ascendent (fără a modifica lista inițială)
+# afișarea listei sortate ascendent (fara a modifica lista inițială)
 print(sorted(lst))
 
-# afișarea listei sortate descendent (fără a modifica lista inițială)
+# afișarea listei sortate descendent (fara a modifica lista inițială)
 print(sorted(lst, reverse=True))
 
 # afișarea numerelor cu indici pari din listă (folosind DOAR slice)
